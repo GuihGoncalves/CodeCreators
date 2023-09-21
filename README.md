@@ -1,6 +1,6 @@
 # CodeCreators
 
-## Partify
+## Geek List
 
-A idéia do projeto é criar um site para gerenciamento de eventos.
-Como, cadastrar um evento, poder vizualisar eventos, locais onde ocorrerão esses eventos, poder comprar um ingresso, ter acesso aos meus ingressos novos e antigos.
+A idéia do projeto é criar um site para cada pessoa administrar sua lista pessoal de animes e séries. 
+Marcar quais conteúdos já assistiu, está assistindo e que pretende assistir.
